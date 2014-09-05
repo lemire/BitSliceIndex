@@ -21,7 +21,7 @@ http://arxiv.org/abs/1402.6407
 type :
 * maven package
 * cd target
-* java -cp RoaringCircuits-0.0.1-SNAPSHOT.jar org.roaringbitmap.circuits.threshold.Benchmark
-* java -cp RoaringCircuits-0.0.1-SNAPSHOT.jar org.roaringbitmap.circuits.comparator.Benchmark
-* java -cp RoaringCircuits-0.0.1-SNAPSHOT.jar org.roaringbitmap.circuits.topk.Benchmark
+* java -cp BitSliceIndex-0.0.1-SNAPSHOT.jar org.roaringbitmap.circuits.threshold.Benchmark
+* java -cp BitSliceIndex-0.0.1-SNAPSHOT.jar org.roaringbitmap.circuits.comparator.Benchmark
+* java -cp BitSliceIndex-0.0.1-SNAPSHOT.jar org.roaringbitmap.circuits.topk.Benchmark
 
