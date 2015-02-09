@@ -11,8 +11,11 @@ For our purposes, we use compressed bitmaps (using the Roaring format).
 - Samy Chambi, Daniel Lemire, Owen Kaser, Robert Godin, Better bitmap performance with Roaring bitmaps, in preparation
 http://arxiv.org/abs/1402.6407
 
+## License ##
 
-## usage ##
+Apache 2.0
+
+## Usage ##
 
 
 * install java
